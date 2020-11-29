@@ -3,7 +3,7 @@
   <metadata>
     <id>diskled</id>
     <version>1.1.1</version>
-    <packageSourceUrl></packageSourceUrl>-->
+    <packageSourceUrl>https://github.com/gsmitheidw/diskled-chocolatey</packageSourceUrl>
     <owners>Graham Smith</owners>
     <title>diskLED</title>
     <authors>Helge Klein</authors>
