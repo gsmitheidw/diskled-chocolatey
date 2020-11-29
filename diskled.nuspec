@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>diskled</id>
+    <version>1.1.1</version>
+    <packageSourceUrl></packageSourceUrl>-->
+    <owners>Graham Smith</owners>
+    <title>diskLED</title>
+    <authors>Helge Klein</authors>
+    <projectUrl>https://helgeklein.com/free-tools/diskled/</projectUrl>
+    <licenseUrl>https://raw.githubusercontent.com/helgeklein/DiskLED/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/helgeklein/DiskLED</projectSourceUrl>
+    <docsUrl>https://helgeklein.com/free-tools/diskled/</docsUrl>
+    <bugTrackerUrl>https://github.com/helgeklein/DiskLED/issues</bugTrackerUrl>
+    <tags>diskled disk LED system tray indicator</tags>
+    <summary>DiskLED is a small tool that displays performance counter data using an animated system tray icon.</summary>
+    <description>DiskLED is a small tool that displays performance counter data using an animated system tray icon. It comes with a graphical configuration dialog that lets you choose from all performance counters available on the local system – you can monitor network throughput just as easily as hard disk activity or memory usage.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
